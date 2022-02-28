@@ -1,0 +1,264 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The soundheads description of the roundhead. Or The roundhead exactly anatomized in his integralls and excrementalls, by the untwistling a threefold knott. 1. Who the roundheads be, or what a roundhead is in rerum natura, and his pedigree. 2. The reall causes producing a roundhead. 3. The properties and peculiarities of a roundhead. Now published to satisfie the whole world in the resolution of this monstrous beast, who and what he is, and by what markes he may be knowne and seene. Printed at the request of Gregory Scotch-marke (or thirteen-pence-half peny) inhabiting in Barber-surgeons alley, at the signe of the new fashioned Perriwigg: in the yeare of the roundhead his hopes confounded, 1642.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93568</idno>
+            <idno type="STC">Wing S4722</idno>
+            <idno type="STC">Thomason E148_7</idno>
+            <idno type="STC">ESTC R3274</idno>
+            <idno type="EEBO-CITATION">99872335</idno>
+            <idno type="PROQUEST">99872335</idno>
+            <idno type="VID">156689</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93568)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156689)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E148[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The soundheads description of the roundhead. Or The roundhead exactly anatomized in his integralls and excrementalls, by the untwistling a threefold knott. 1. Who the roundheads be, or what a roundhead is in rerum natura, and his pedigree. 2. The reall causes producing a roundhead. 3. The properties and peculiarities of a roundhead. Now published to satisfie the whole world in the resolution of this monstrous beast, who and what he is, and by what markes he may be knowne and seene. Printed at the request of Gregory Scotch-marke (or thirteen-pence-half peny) inhabiting in Barber-surgeons alley, at the signe of the new fashioned Perriwigg: in the yeare of the roundhead his hopes confounded, 1642.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed in the yeare 1642. for I.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Roundheads --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156689:1" rendition="simple:additions"/>
+            <p>THE SOVNDHEADS DESCRIPTION OF THE ROVNDHEAD.</p>
+            <p>
+               <hi>OR</hi> THE <hi>RO<g ref="char:V">Ʋ</g>NDHEAD</hi> Exactly Anatomized in his Integralls and Excrementalls, by the untwiſt<g ref="char:EOLhyphen"/>ing a threefold Knott.</p>
+            <list>
+               <item>1. Who the <hi>Roundheads</hi> be, or what a <hi>Roundhead</hi> is in <hi>rerum natura,</hi> and his Pedigree.</item>
+               <item>2. The reall Cauſes producing a <hi>Roundhead.</hi>
+               </item>
+               <item>3. The properties and peculiarities of a <hi>Roundhead.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>Now publiſhed to ſatisfie the whole world in the reſolu<g ref="char:EOLhyphen"/>tion of this monſtrous Beaſt, who and what he is, and by what markes he may be knowne and ſeene.</hi>
+            </p>
+            <p>Printed at the requeſt of <hi>Gregory Scotch-marke</hi> (or thirteen-pence-half peny) inhabiting in <hi>Barber-Surgeons</hi> Alley, at the ſigne of the new faſhioned Perriwigg: <hi>In the yeare of the</hi> Roundhead <hi>his hopes confounded,</hi> 1642.</p>
+            <p>
+               <hi>LONDON</hi> Printed in the yeare 1642. for <hi>I. B.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb n="2" facs="tcp:156689:2"/>
+            <head>To the judicious Reader.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Mongst thoſe infinite number of <hi>Pamphlets</hi> and <hi>Libells,</hi> wherewith this knowing Iſland, to wit, the Citie and Countrey is pestered, and the ayre thereof infected and poyſoned with the ſulphurous breathings of their vanitie, prophaneneſſe and lyes, every houre producing ſomething new, ſomething wicked, ſomething fooliſh, little true: according to the ſeverall conſtitutions and diſpoſitions of the Cli<g ref="char:EOLhyphen"/>mactericall men of this age, from thoſe hourely e<g ref="char:EOLhyphen"/>vents and occurrences of perſons, things and times: There is one ignorant foo<g ref="char:EOLhyphen"/>liſh wicked <hi>Pamphlet</hi> or <hi>Libell</hi> of the <hi>Roundheads</hi> lately Printed, receiving its monſtrous prodigious and untimely birth from the wombe of an <hi>ignoramus.</hi> And the which <hi>Pamphlet</hi> or <hi>Libell,</hi> is as full of lyes and folly, as a beggar of lice and a dog of fleas: being the moſt falſe, fooliſh, and ignorant deſcription of the <hi>Roundheads:</hi> And hath occaſioned this ſhort diſcourſe following (in its due and full ſeaſon) to ſtep forth in the clothing of a <hi>Pamphlet,</hi> to meet with fooles in their folly, And by good skill and ſtrength of armes to bray him in a Morter, till this <hi>ignoramus</hi> and his Proſelytes be convinced and diſarmed of their ſordid, ſenceleſſe, and groſſe ignorance, in framing ſo falſe and ſilly a de<g ref="char:EOLhyphen"/>ſcription, and applying the terme <hi>Roundhead</hi> to thoſe perſons whom there is not the leaſt ſhow of reaſon or honeſty to evince it.</p>
+            <p>The judicious <hi>Reader,</hi> is requeſted to behold really as in a glaſſe the reall and true deſcription of a <hi>Roundhead</hi> indeed, and to whom it may properly with ſound and undeniable grounds and reaſons be applyed unto, according to the Inſcription or Title of this ſhort diſcourſe: referring the whole matter in hand to thy wiſdome, judgement, and conſcience, ever reſting a reall Servant to all vertuous Readers,</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:156689:2"/>
+            <head>THE SOVNDHEADS DESCRIPTION OF THE ROVNDHEAD, <hi>OR</hi> A <hi>Roundhead</hi> Anatomized in his Integralls or Excrementalls.</head>
+            <p>
+               <seg rend="decorInit">A</seg> 
+               <hi>Roundhead,</hi> according to the title or inſcription of this Diſcourſe (being the untying the firſt knot) may be defined or expreſſed in theſe twelve ſeverall Expreſſi<g ref="char:EOLhyphen"/>ons or Definitions.</p>
+            <p>
+               <hi>There be theſe twelve ſeverall Definitions of a</hi> Round<g ref="char:EOLhyphen"/>head, <hi>whereby all men may both know and ſee what and who he is.</hi>
+            </p>
+            <div type="part">
+               <head>A <hi>Roundhead</hi> in <hi>Rerum Natura</hi> is.</head>
+               <list>
+                  <item>1. A white bald ſmooth pate, under a Perriwigg of the neweſt fa<g ref="char:EOLhyphen"/>ſhion.</item>
+                  <item>2. A ſmooth round bowle, kiſſing his Miſtreſſe in a long covered Bowling-alley.</item>
+                  <item>3. A very tender thing, for it muſt at noone-day weare a long furr'd Night cap.</item>
+                  <item>4. That which onely appeares in the night in bed-chambers like a Ghoſt, or Hobgoblin.</item>
+                  <item>5. An Owle in an Ivie-buſh, who cannot endure the light and ſight of truth and honeſty, as the Owle cannot behold the Sunne in the mid<g ref="char:EOLhyphen"/>day.</item>
+                  <item>6. In a Circular motion all the day time, toſſed up and downe like a Tennis-ball by the Racket of every foole, from one hazzard to ano<g ref="char:EOLhyphen"/>ther,
+<pb n="4" facs="tcp:156689:3"/>till it hath worne out all its bowels: That is, It is a Roundheaded Gentleman in his new Periwigg, his head and his wits running round, led and carried up and down by every foole from one miſchiefe to ano<g ref="char:EOLhyphen"/>ther, till he hath worne out and loſt all his wits and his money.</item>
+                  <item>7. Is a Civit-catt with a long tayle, who is a perfumed odoriferous Perriwigd Roundhead.</item>
+                  <item>8. A ſweetfac'd Puppy curled and criſped.</item>
+                  <item>9. The Counterfeit of a <hi>Holland</hi> Cheeſe with a Map on his head.</item>
+                  <item>10. A living skull wrapped up in a winding ſheet of dead mens ex<g ref="char:EOLhyphen"/>crements.</item>
+                  <item>11. A ſtrange homebred Monſter, carried up and downe in a little houſe one ſtory high (by the learned called a <hi>Sedan</hi>) to a Play-houſe, where any man may ſee him for twelve pence a peece upon the Stage.</item>
+                  <item>12
+<lg>
+                        <l>One covered with a narrow brimmd hatt.</l>
+                        <l>With a top-top-gallant crowne very flatt.</l>
+                        <l>And a round blocke under that.</l>
+                        <l>Well buſhed and ſhagg'd downe to his backe.</l>
+                        <l>And ſtrongly perfumed with Sacke.</l>
+                        <l>While his braines doe ake and cracke.</l>
+                        <l>And his tongue doth ſweare and chatt.</l>
+                        <l>And curſe his Brother Roundheads that.</l>
+                        <l>Turned him into a Counter Ratt.</l>
+                     </lg>
+                  </item>
+               </list>
+               <p>Theſe Twelve Definitions of a <hi>Roundhead,</hi> anatomize the Monſter to be one who would be thought and called a Gentleman, when indeed he is one of the Raskally witles generation, or a bladder prepoſterouſly blowne up by the ſtinking breath of ſome windy brained foole, with a Peacocks feather in his hatt, vapouring and flouriſhing in the circle of his owne conceit, that he is a naturall Gentleman borne, when he is but an artificiall <hi>Woodſtreet</hi> or <hi>Poultrey</hi>-Counter-feit Gentleman at his beſt. This Superlative, admirable wonder (among children and fooles) is one that <hi>(par la fortune de la guerre)</hi> hath loſt his naturall haire from his naturall head: and thereupon he is deprived of his naturall witts: his haire being newly gone, his witts went preſently after a wooll-gathe<g ref="char:EOLhyphen"/>ring, and along while ſcattered as faſt as they gathered, till at length meeting with a deere and neere friend of his <hi>Gregory Scotch-mark,</hi> a mile beyond <hi>Holborne-hill,</hi> (a notable Mountebanke of approved skill in the cures of all diſeaſes) who adviſeth him to ſome artificialiſts, whom he furniſheth with all the dead men and womens wooll of their heads, which comes under the ſhaying of his hands every Seſſions, who being
+<pb n="5" facs="tcp:156689:3"/>of notable skill in the excrementall art, doe at the proper coſt and char<g ref="char:EOLhyphen"/>ges of this diſtreſſed Gentleman, ſo compoſe, contract, and weave this wooll, that it is made an excellent covering to hang about his noddle, and then he becomes immediately at the firſt putting on, and ſo for<g ref="char:EOLhyphen"/>wards, an artificiall Gentleman <hi>Roundhead.</hi> And they paſſe and are e<g ref="char:EOLhyphen"/>ſteemed by many for Squires and Gentlemen, of no little wit, and fur<g ref="char:EOLhyphen"/>niſh the <hi>Arithmeticians</hi> of the age with figures and cyphers, whereby in the <hi>Arithmeticians</hi> accompt, they are reckoned and caſt up in haire infi<g ref="char:EOLhyphen"/>nite, but in wit meere Cyphers.</p>
+            </div>
+            <div n="2" type="part">
+               <head>2. The reall Cauſes producing this <hi>Roundhead.</hi>
+               </head>
+               <p>There are ſeverall cauſes in Nature, naturall cauſes, therefore accor<g ref="char:EOLhyphen"/>ding to our deſcription in the Title, we muſt anatomize this <hi>Roundhead</hi> in his integralls and excrementalls, from his Round head to his round heele; the diſcuſſion whereof will complete the cauſes producing this <hi>Roundhead.</hi>
+               </p>
+               <div type="section">
+                  <head>For his Integralls in generall.</head>
+                  <p>His ſoule and body throughout, in all and every part, his whole na<g ref="char:EOLhyphen"/>turall frame and conſtitution (is for the preſent) a rude, vaſt, unpoliſhed <hi>Chaos</hi> of ſin &amp; iniquitie, a perſon who is ſold under ſin, a ſlave and vaſ<g ref="char:EOLhyphen"/>ſall to ſin, the Devill, the world, the fleſh, full of all darkneſſe, corrup<g ref="char:EOLhyphen"/>tion, and filth: being moſt contrary &amp; abominable to all beauty, light, goodnes, libertie, and ſweetneſſe: So that where there is ſo univerſall a contagion and confuſion, ſuch a leproſie of iniquitie, throughout and all over, it muſt needs follow undeniably, that here is ſufficient matter for the producing of this round-headed Monſter. As will more con<g ref="char:EOLhyphen"/>ſpicuouſly appeare in the particular anatomizing, or embowelling of this Monſter in his Integralls.</p>
+                  <p>Firſt, He is a perſon whoſe heart is filled with all manner of prophane<g ref="char:EOLhyphen"/>neſſe, baſeneſſe, and wickedneſſe, as pride, uncleanneſſe, adultery, for<g ref="char:EOLhyphen"/>nication, idolatry, ſuperſtition, atheiſme, hardneſſe of heart, hatred, en<g ref="char:EOLhyphen"/>vy, full of all deceitfulneſſe, lves, falſhood, evill thoughts, purpoſes, in<g ref="char:EOLhyphen"/>tents full of treaſons and conſpiracies, againſt all that is pure good, ho<g ref="char:EOLhyphen"/>ly, heavenly, and ſpirituall, witneſſe the very conſciences of the Round<g ref="char:EOLhyphen"/>heads themſelves, if they will looke into them, and but heare and ſuffer them to ſpeake.</p>
+                  <p>Secondly, He is a perſon whoſe mind and intellectuall part is full of blindneſſe, darknes, ſimplicitie &amp; groſſe ignorance, yea palpable groſſe thick darkneſſe, that may be felt, yea wilfull blindneſſe: knowing no<g ref="char:EOLhyphen"/>thing in any diſtinct manner of God, or of goodnes, of vertue, or them<g ref="char:EOLhyphen"/>ſelves,
+<pb n="6" facs="tcp:156689:4"/>but yet ſtrongly perſwaded and conceited in the imagination of their own evill heart (formerly deſcribed) of their owne wiſdome, goodneſſe, and vertue: And for the proofe of this, witneſſe all their Pamphlets, all their diſcourſes, all their railings, curſings and ſlanders, from day to day. Their Pamphlets, filld with nothing but prophane, fooliſh, uncleane words and expreſſions, there being nothing ſubſtanti<g ref="char:EOLhyphen"/>all or wiſe according to truth in them: Their diſcourſes being irratio<g ref="char:EOLhyphen"/>nall, ſimple, ſhallow, blind, yea ſottiſhly ignorant, profeſſing themſelves wiſe, and yet knowing nothing (at leaſt wiſe as they ought to know) as the Wiſe man in the <hi>Proverbs</hi> 28 <hi>Chap.</hi> 5. <hi>ver.</hi> proves in theſe words; <hi>Evill men underſtand not judgement, but they that ſeeke the Lord underſtand all things:</hi> They are fooliſhly and wickedly ignorant: They in their diſ<g ref="char:EOLhyphen"/>courſes brag of learning, parts, wits, knowledge, but they are ignorant and underſtand not Religion, vertue, manners: It hath been as often proved as there be houres in the day, minutes in each houre: That theſe <hi>Roundheads</hi> (according to the former deſcription, who are the <hi>Round<g ref="char:EOLhyphen"/>heads</hi> indeed in <hi>rerum natura</hi>) when they have been in diſpute and rea<g ref="char:EOLhyphen"/>ſoning with thoſe whom they and their proſelytes formerly falſly cal<g ref="char:EOLhyphen"/>led by the name of <hi>Roundheads,</hi> who are indeed thoſe whom the Wiſe man in the place aforecited, called <hi>Seekers of God,</hi> and who underſtand all things: I ſay, they have not been able to make a rationall or true an<g ref="char:EOLhyphen"/>ſwer to Queſtions demanded them, nor defend any argument of their owne from being torne in pieces, or vaniſhing into ſmoake and ayre; but they have been forced like <hi>Ignoramus</hi> himſelfe, to hold their peace and learne wit: or if ſhame and diſgrace troubled them, then when they wanted wit to make a rationall anſwer, then to be ſure their graceleſſe hearts and tongues did not want curſes, lyes, oaths, ſlanders and railing.</p>
+                  <p n="3">3. For his body, both integralls and excrementalls, ſee the cauſes producing a <hi>Roundhead:</hi>
+                  </p>
+                  <p>He is one whoſe head and braines is elevated with Sack, ſtrong drink, and Tobacco, whoſe eyes are full of adultery, his face with patches and plaiſters, or ſome of his Ladies favour-ſports: his whole body is em<g ref="char:EOLhyphen"/>balmed to preſerve his rotten carkaſe from offending the noſtrills of his friends and companions; or elſe his face is full of skarrs, cuts and wounds, in quarrells with brothers of his owne Tribe, when they can<g ref="char:EOLhyphen"/>not agree in ſwearing and lying.</p>
+                  <p>His noſe if not falne downe flat dead on his face already, yet it is to be feared, it cannot ſtand upright long.</p>
+                  <p>His tongue may be compared to the Devill, yea hell it ſelfe, breathing
+<pb n="7" facs="tcp:156689:4"/>forth nothing but oaths, curſes, railings, bawdry every moment.</p>
+                  <p>His hands and feet ever in one quarrell or other, or employed in ſome brothell-houſe in the luſtfull embraces and helliſh claſpings of ſome of his filthy and uncleane Miſtreſſes, and whoriſh Ladies, till he returnes home lame full of the heavy diſeaſe by the vulgar ſort called the Poxe. And thus you have the Integralls of this <hi>Roundhead</hi> deſcribed, from the particular cauſes producing a <hi>Roundhead,</hi> which in plaine termes and few words is this: The evill heart &amp; manners of theſe men bring them to the Poxe, the Poxe eates of their naturall haire, and ſo they become <hi>Roundheads.</hi>
+                  </p>
+                  <p>And thus went the haire away, the Gentleman becomes bald, his witts here going firſt away, and a very little returning to him (upon the cure in part wrought) he conſults with the artificialiſts and excremen<g ref="char:EOLhyphen"/>talliſts of the time, that he may bring up a new faſhion to make Perri<g ref="char:EOLhyphen"/>wigd Gentlemen.</p>
+                  <p>And ſo we paſſe to the untying of the third knot, which is,</p>
+               </div>
+            </div>
+            <div n="3" type="part">
+               <head>3. The reall properties and peculiarities of a <hi>Roundhead,</hi> whereby he may be notoriouſly knowne and ſeene by any judicious obſervant eye.</head>
+               <p>And theſe properties are not a few, but ſo many as we ſhall really col<g ref="char:EOLhyphen"/>lect and compriſe within the compaſſe of this ſhort Diſcourſe, we ſhall endeavour to give the world information of.</p>
+               <p>The Gentleman <hi>Roundhead</hi> being now created and formed by thoſe former producing cauſes; now you ſhall ſee him faſhioned in all his excrementall perfections.</p>
+               <p>The which, I will compriſe under theſe five heads, and ſo finiſh the Diſcourſe.</p>
+               <list>
+                  <item>He may be deſcribed
+<list>
+                        <item>1. By his cloathing.</item>
+                        <item>2. By his poſture.</item>
+                        <item>3. By his diſcourſe or language.</item>
+                        <item>4. By his aſſociates, and his baſtard brood.</item>
+                        <item>5. By his actions.</item>
+                     </list>
+                  </item>
+               </list>
+               <p>Firſt, for his clothing, a ſingular property, he loves rich clothing, and borrowes of all Nations a ſeverall dreſſe &amp; attire, he hath infinite mind for change of rayment, as the haires of his Perriwig be infinite and paſt numbering.</p>
+               <p>Therefore we muſt begin to reckon from the firſt artificiall haire in his Perriwig, to the laſt artificiall ſtitch in the ſoale of his Bootes: hold, hold, hold, what have we ſaid, we muſt begin there, we muſt give our
+<pb n="8" facs="tcp:156689:5"/>ſelves a juſt correction, we doe take a cubit from his ſtature at leaſt, and detract from one of his greateſt perfections, by making a dwarfe of a proper Gentleman. And our miſtake would have been ſo groſſe, (if we had not ſpeedily collected and corrected our thoughts) as to have un<g ref="char:EOLhyphen"/>dertaken to have given the deſcription of the height of <hi>Pauls</hi> onely by relating the height of the Church, when wee ſhould deſcribe the height of <hi>Pauls</hi> by the Steeple: But having timely corrected our thoughts wee ſhall endeavour to begin at the height and top of this Roundheaded Gentlemans perfection: (Onely a little by the way ob<g ref="char:EOLhyphen"/>ſerve it as one of his chiefeſt properties, that he loves and prides to be clothed with the neweſt faſhion. And therefore he is full of invention, and his thoughts multiplicious and fruitfull, how he may have change of attire and faſhion: yea rather then he will want any one faſhion, he will ſo contrive by the advice of his grand and little and nimble coun<g ref="char:EOLhyphen"/>cell, the profeſſors of the croſſelegd art, who are very dexterous in the compoſure of all faſhions contracted and united in one, that this <hi>Round<g ref="char:EOLhyphen"/>head</hi> being clothed in his new trappings, he is made the repreſentative body of all kindreds, tongues, and nations, his <hi>Roundhead</hi> confining his braines in ſuch a circle, that they run round about the Globed Center for every new ſtrange faſhion.)</p>
+               <p>Firſt therefore for his hatt, it is faſhioned like the blocke on which it was ſquared, being flat crowned, and not made fit to his head, but to his Perriwigg, and therefore it ſets to his Perriwigg as looſe, as his Per<g ref="char:EOLhyphen"/>riwigg to his bald pate, (unleſſe it be tyed) ready to fall off to the right hand or to the left, to ſalute his brother <hi>Roundhead</hi> when he meets him: And wee know the reaſon of this faſhion, becauſe theſe Gal<g ref="char:EOLhyphen"/>lants deſire and love to have their witts and heads at libertie, and can<g ref="char:EOLhyphen"/>not endure to have their braines bound too faſt, or confined in their noddles.</p>
+               <p>Next, their hatt is narrow-brimd, &amp; they have a good reaſon for that, for whereas the ignorant ſort object againſt it, as unprofitable, yea pre<g ref="char:EOLhyphen"/>judiciall, for it expoſes their bodies to the weather, They give a ſudden anſwer to this Objection, and prove the contrary, That a good buſh doth ſhelter them better from the weather, with which they are large<g ref="char:EOLhyphen"/>ly furniſhed. But that we may not forget to hang forth our Colours on the Flag-ſtaffe before we come downe from the maine top, we muſt therefore ſet out a very faire feather, tyed faſt with Ribbins of all co<g ref="char:EOLhyphen"/>lours in the Rainebow. He is no true Gentleman without a feather in his cap, and he is no man of warre without his colours. Therefore that
+<pb n="9" facs="tcp:156689:5"/>he may have and claime the propertie both of Souldier and Gentle<g ref="char:EOLhyphen"/>man, he will be well feathered.</p>
+               <q>
+                  <l>
+                     <hi>And yet</hi>
+                  </l>
+                  <l>What is lighter then a feather?</l>
+                  <l>What is heavier then Leade?</l>
+                  <l>A braineles Perriwigged Cavalier,</l>
+                  <l>That is a true <hi>Roundhead.</hi>
+                  </l>
+               </q>
+               <p>For his Perriwigg the chiefeſt jewell about him, being artificially woven and bound together, ſtrongly perfumed, a right colour to a haire it is, which he borrowes from ſeverall dead men and women, a haire from one, and a haire from a ſecond, and ſo forward, that he is excee<g ref="char:EOLhyphen"/>dingly ingaged to them for every haire of his head. As for the reſt of his clothing downwards, To wit, his Band with buttons and loopes under his chin, to the confuſion of all Band-ſtring-makers, with his ſhort waſted dublet, long ſword, and long breeches, ſhort bootes and thundering ſpurres, being all compoſed according to the Rules of are and reaſon, for every ſtitch of him: The particulars of the recitall, would be too tedious and prolixe for this ſhort Diſcourſe, and there<g ref="char:EOLhyphen"/>fore is purpoſely omitted at preſent: Becauſe wee deſire to proceed to the next property of this <hi>Roundhead.</hi>
+               </p>
+               <p n="2">2. By his Poſture: An admirable poſture he hath, he alwayes in ſtead of ſtanding in a poſture of defence, is ever in a poſture of offence, he barkes and bites, and ſnaps every one that comes neere him, that are not of his owne conſtitution. His very lookes ſtrike fooles with ter<g ref="char:EOLhyphen"/>rour and amazement, his patches and ſpotts on his face, are the enſigne that he is a Souldier and a man of offence every inch and ſtitch of him: His lookes are ſo big and terrible, having ſuch a Majeſty in them as is able to make children run away, as if ſome ſtrange apparition appeared to them of <hi>Jack a Dandy,</hi> or as if ſome Bullbeggar, or Buggbeare were readie to eate them up: And indeed their long Perriwigs are like ſo many viſſards of ugly ſhapes and repreſentations, to skare and fright children and fooles into good manners: And is not this now a ſingular propertie and vertue in them, that they are able by the very Majeſtie and dreadfulneſſe of their aſpect, to worke ſuch cures as that children and fooles ſhould ſtand in feare of them, and be ruled and skared into wit and manners. For their valour and magnanimitie of ſpirit, it is be<g ref="char:EOLhyphen"/>yond expreſſion, for upon the leaſt motion of their head and eyes, they
+<pb n="10" facs="tcp:156689:6"/>in their imagination apprehend that they drive the whole world be<g ref="char:EOLhyphen"/>fore them.</p>
+               <p>The poſture of his head, according to the rules of art, knowes both his motion in all its ſeveralls, and the time thereof, for the moſt part moving it very ſtately, deceiving the world thereby with a perſwaſion that he is as wiſe and ſtately as ſome of the Lord Majors of <hi>London,</hi> but to be ſure as wiſe &amp; ſtately as ſome of your potentiall Aldermen in their foot motion through the Citie, or when they ſit in their Court at <hi>Guild-hall</hi> And likewiſe that they have as much Majeſty, learning, gravitie, juſtice, as is in the ſmooth-chind Judges in Terme time in <hi>Weſtminſter Hall.</hi> But how infinitely theſe graceles fellowes fall ſhort of theſe honourable mens perfections, let the Citie of <hi>London</hi> judge for the one, and the Plaintiffes and Defendants for the other. For the hu<g ref="char:EOLhyphen"/>militie of their bodies they excell the whole world, being full of courte<g ref="char:EOLhyphen"/>ous embraces and Court-ſalutations, their hands and feete ready ſer<g ref="char:EOLhyphen"/>vants to them at their firſt command, to act the reall diſſimulation of their hearts to every one they meet with, what an infinite number of complements and ſalutes, doe all the reſt of their brother <hi>Roundheads</hi> meet with in a day from theſe artificiall <hi>Roundheads:</hi> They ſeldome fight, except they be drunke, and then they are mad-men, nothing can appeaſe them, but then all bloud and wounds one towards another: They are as ſwift in the motion of their feete, as the Beares that are led muſſelled through the Citie, their leggs being ſo packt up in their great boots, and they forced to ſtraddle in their ſteps, and walke ginger<g ref="char:EOLhyphen"/>ly, becauſe all is not well with them in their breeches.</p>
+               <p n="3">3. For their diſcourſe and language, which is their third propertie: among their owne Tribe, nothing but all manner of prophane and fil<g ref="char:EOLhyphen"/>thy language of whores and drinke, mixt with a thouſand oaths and lyes, to make themſelves merry-like fooles who make a ſport of ſinne: And if not in this diſcourſe, then they are relating ſome falſe report of the innocent, and ſuch as feare an oath, or elſe railing and curſing all ſuch as doe not obſerve and follow their humours in their gnorance, prophaneneſſe and baſeneſſe.</p>
+               <p n="4">4. For their aſſociates, or baſtard brood, Their aſſociates are ever their fellow-<hi>Roundheads</hi> who are of the ſame conſtitution and follow them in all their humours and wickedneſſe: Or elſe all ignorant pro<g ref="char:EOLhyphen"/>phane and ſenceleſſe doultheads, that know not their right hand from their left in any thing that is good and religious, ſuch whom wee call their baſtards, they are ſo like them in conditions and manners: who
+<pb n="11" facs="tcp:156689:6"/>although they are not of the Gentile ſort of <hi>Roundheads,</hi> and ſo not Per<g ref="char:EOLhyphen"/>riwigged and accoutred in their trappings, like theſe <hi>Roundheaded</hi> Gal<g ref="char:EOLhyphen"/>lants, yet for conditions and manners they are the naturall fooles of ar<g ref="char:EOLhyphen"/>tificiall fooles, for prophaneneſſe, ſimplicitie, ignorance, and evill man<g ref="char:EOLhyphen"/>ners, they may be very well termed naturall <hi>Roundheads.</hi> Such who are the braineles generation of ignorant perſons, That beleeves as the Church beleeves, and will raile againſt and curſe that and thoſe which they underſtand not nor know not. It being ever the propertie of pro<g ref="char:EOLhyphen"/>phane fooles to ſpeake evill of that which is good, and of them that profeſſe goodneſſe, through their monſtrous ignorance: And they are driven like calves by every aſſe to the ſhambles of their owne deſtru<g ref="char:EOLhyphen"/>ction.</p>
+               <p n="5">5. Their actions is the next propertie, and theſe are infinite innum<g ref="char:EOLhyphen"/>ber, and all evill like themſelves, they are full of all manner of iniqui<g ref="char:EOLhyphen"/>tie-without meaſure themſelves, and they act all manner of iniquitie,</p>
+               <list>
+                  <item>Againſt
+<list>
+                        <item>God, goodneſſe, Religion, and manners.</item>
+                        <item>Their King and Countrey in generall.</item>
+                        <item>The true worſhippers and fearers of God.</item>
+                     </list>
+                  </item>
+               </list>
+               <p>Firſt, againſt God himſelfe, continually in rebellion againſt him, yea open manifeſt rebellion, refuſing to be ruled and governed by his holy Law, or to beleeve his heavenly Goſpell, but deſpiſing the one, and ſlighting the other, doe give themſelves up to all manner of licen<g ref="char:EOLhyphen"/>tiouſneſſe committing iniquitie with greedineſſe, by their prophane<g ref="char:EOLhyphen"/>neſſe, oaths, uncleaneneſſe, &amp;c. Againſt goodneſſe, ever railing, ha<g ref="char:EOLhyphen"/>ting, mocking at goodneſſe, preciſeneſſe, or holineſſe: Againſt Reli<g ref="char:EOLhyphen"/>gion, Therefore are they ſo zealous for all falſe impure, mixed, popiſh worſhip and ceremonies (As for the Common Prayer Booke, which is a thing firſt invented and compoſed by the enemy of God, and of Chriſt, To wit, Antichriſt the Pope being extracted out of the Maſſe-Booke, a meere compound of errours, confuſion, additions, and ſub<g ref="char:EOLhyphen"/>ſtractions to and from the Scriptures, mans invention, and yet this of<g ref="char:EOLhyphen"/>fered to God as his worſhip, againſt his expreſſe command, That who<g ref="char:EOLhyphen"/>ſoever adds to his Word or takes from it, ſhall have his name blotted out of the booke of life: And that it is a vaine worſhip of God to wor<g ref="char:EOLhyphen"/>ſhip him after, or by the traditions of men, againſt his expreſſe will, who will have his worſhip both for matter and manner pure, without mixture, ſpirituall with out earthly invention or compoſute, <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="12" facs="tcp:156689:7"/>ſet downe his whole mind and will, how he will be worſhipped and at what manner in his Word and Teſtament. But a reaſon may be given why they are ſo zealous for their ignorant devotion in the Common-Prayer-book is, becauſe they are furniſhed from the <hi>Letany</hi> with oaths, as, <hi>by thy wounds and bloud, by thy agony, by thy death:</hi> And from the <hi>A<g ref="char:EOLhyphen"/>pocrypha</hi> Chapters in the <hi>Service-booke</hi> with lyes: ſo they learne to ſweare and lye, for not any of them are converted to leave off ſwearing and lying, but they are nouriſhed and ſtrengthened in their ignorance and ſuperſtition and prophaneneſſe by it:) and ſo for Biſhops, Altars, Croſſes, and what not. Againſt all good manners and honeſt conver<g ref="char:EOLhyphen"/>ſation, by their riotous, drunken, and prophane actions.</p>
+               <p>Secondly, They are againſt the King and Countrey in generall, The onely diſturbers, traytors, and rebels in the State, ſowing diſcord and diviſion in the hearts of all they can infect with their trayterous councells, poſſeſſing the King with evill thoughts of the Parliament, practiſing daily miſchiefe againſt the honeſt and faithfull and loyall en<g ref="char:EOLhyphen"/>deavours of this ever honoured &amp; religious Parliament; but great hope is, their miſchiefe ſhall returne upon their owne pate, by the wiſdome and innocency, and integritie of that gracious Aſſembly.</p>
+               <p>Thirdly, Againſt the true worſhippers and fearers of God, by mali<g ref="char:EOLhyphen"/>cious lyes and ſlanders of them, terming them fooles, <hi>Roundheads,</hi> Prea<g ref="char:EOLhyphen"/>chers in tubbs, and by their execrations and curſes of them; But the curſe that is cauſeleſſe ſhall not come, nor the termes that are ground<g ref="char:EOLhyphen"/>leſſe ſhall not remaine upon good men: But ſhall returne upon the pates of the firſt inventers. And thus you have the <hi>Soundheads</hi> deſcrip<g ref="char:EOLhyphen"/>tion of the <hi>Roundheads</hi> fully Anatomized.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
